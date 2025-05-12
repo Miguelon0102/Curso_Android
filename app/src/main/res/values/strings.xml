@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidMaster</string>
+    <string name="hello_world">Hello World</string>
+    <string name="hello_world_1" />
+    <string name="hello_world_2" />
+    <string name="hello_world_3" />
+    <string name="texto1">Texto1</string>
+    <string name="texto2">Texto2</string>
+    <string name="texto3">Texto3</string>
+</resources>
